@@ -1,6 +1,7 @@
 #title Software Carpentry Workshop Notes
 #Author Funda Torun
 # Date: 15th September 2017
+#Git test1
 
 library(ggplot2)
 1+100
