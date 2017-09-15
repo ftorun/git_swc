@@ -1,3 +1,4 @@
+#title Software Carpentry Workshop Notes
 #Author Funda Torun
 # Date: 15th September 2017
 
